@@ -1,3 +1,3 @@
 # Nagano Quest
 A simple little text based, branching adventure game using my very limited Python abilities. <br>
-This was written for Python 2.7.
+Updated for Python 3.
